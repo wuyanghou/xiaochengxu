@@ -1,0 +1,3 @@
+<view>测试数据请求页面</view>
+<view class='wrap'>域名:{{domain}}</view>
+<view>状态:{{status}}</view>
