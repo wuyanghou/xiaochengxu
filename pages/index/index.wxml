@@ -25,4 +25,7 @@
   <view bindtap='gotoUploadPage'>
     <text> goto upload page</text>
   </view>
+   <view bindtap='gotoTestComponentPage'>
+    <text> goto testComponent page</text>
+  </view>
 </view>

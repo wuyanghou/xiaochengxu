@@ -45,6 +45,12 @@ Page({
       url: '../upload/upload'
     })
   },
+  gotoTestComponentPage(){
+    console.log('testComponentPage');
+    wx.navigateTo({
+      url: '../testComponent/testComponent'
+    })
+  },
   onLoad: function () {
     if (app.globalData.userInfo) {
       this.setData({

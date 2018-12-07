@@ -1,0 +1,8 @@
+<view class="wrapper">
+  <slot name="before"></slot>
+  <view>这里是第一个组件的内部细节</view>
+  <slot name="after"></slot>
+  <view>名称：{{selfName}}</view>
+  <view>年龄：{{selfAge}}</view>
+  <view>状态：{{isChanged}}</view>
+</view>

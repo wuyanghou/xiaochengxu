@@ -1,14 +1,15 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/logs/logs",
     "pages/test/test",
     "pages/carousel/carousel",
     "pages/data/data",
     "pages/download/download",
-    "pages/upload/upload"
+    "pages/upload/upload",
+    "pages/testComponent/testComponent"
   ],
   "navigationBarBackgroundColor": "#fff",
   "navigationBarTitleText": "WeChat",
-  "navigationBarTextStyle":"black"
+  "navigationBarTextStyle": "black"
 }

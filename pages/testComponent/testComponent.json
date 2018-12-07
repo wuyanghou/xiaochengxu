@@ -1,0 +1,6 @@
+{
+  "usingComponents":{
+    "first-Com":"/components/firstCom/firstCom",
+    "sec-Com":"/components/secCom/secCom"
+  }
+}

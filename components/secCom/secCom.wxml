@@ -1,0 +1,3 @@
+<!--components/secCom/secCom.wxml-->
+<text>components/secCom/secCom.wxml</text>
+<button bindtap="triggerClick">触发父组件方法</button>

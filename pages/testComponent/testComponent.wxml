@@ -1,0 +1,9 @@
+<!--pages/testComponent/testComponent.wxml-->
+<text>pages/testComponent/testComponent.wxml</text>
+<first-Com self-name="{{name}}" self-age="{{age}}">
+  <view slot="before">外部before</view>
+  <view slot="after">外部after</view>
+</first-Com>
+<button bindtap='refreshData'>点击刷新组件内部数据</button>
+<sec-Com bindSubEvent="parentEvent"></sec-Com>
+
